@@ -1,3 +1,7 @@
-.h1 {
+.title {
     color: blue;
+}
+
+.font {
+    font-size: 36px;
 }
