@@ -8,7 +8,7 @@ export default function Home() {
         <Head>
           <title>Dummy Next App</title>
         </Head>
-        <h1>Dummy Project Home Page</h1>
+        <h1 className={styles.h1}>Dummy Project Home Page</h1>
       </div>
     </>
   )
