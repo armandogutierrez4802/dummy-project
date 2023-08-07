@@ -11,6 +11,7 @@ export default function Home() {
           <title>Dummy Next App  | Home</title>
         </Head>
         <Navbar />
+        <h1 className={`${styles.title} ${styles.font}`}>Dummy Project Home Page Change</h1>
         <h1 className={`${styles.title} ${styles.font}`}>Hello</h1>
         <Link href="/about" className={styles.font}>
           Go to About
